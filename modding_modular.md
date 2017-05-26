@@ -9,3 +9,15 @@
 6. monome earthsea
 7. monome teletype
 8. monome ansible
+
+## starting out with mutable development environment
+
+read here:
+https://github.com/pichenettes/mutable-dev-environment
+
+need vagrant & virtualbox.
+
+## hacking braids
+seems like every mutable modules has dedicated "opensource" page. Below is for braids:
+
+http://mutable-instruments.net/modules/braids/open
